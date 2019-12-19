@@ -1,0 +1,53 @@
+{
+    "name": "Evercam",
+    "description": "<p>Apps for Cameras. Get more from your CCTV system with our Apps and Developer tools. Connect your camera to Evercam and add additional functionality to your camera with our growing range of apps. Evercam Capture turns your phone into a camera (actually 2 cameras if you have 2 cameras on your phone) and connects them securely to your account on Evercam.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/evercam-logo.png",
+    "tags": [
+        "api provider",
+        "cameras",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/evercam\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Evercam",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/evercam-logo.png",
+            "humanURL": "http:\/\/www.evercam.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/evercam-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.evercam.io\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.evercam.io\/blog\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/evrcm"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/evercam"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.evercam.io\/"
+        }
+    ]
+}
